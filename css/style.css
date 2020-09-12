@@ -1,0 +1,77 @@
+h1{
+    color: rgb(78 105 239);; 
+    font-size:80px
+}
+
+h3{
+    color: rgb(78 105 239);
+    font-size:30px
+}
+
+h5{
+    color: rgb(78 105 239);
+    font-size:15px
+}
+
+body{
+    text-align: center;
+    background-image: url(../img/fondo1.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;    
+    padding: 30px;
+}
+
+p{
+    color: whitesmoke;
+    font-size: 30px;
+    text-align: justify;
+    background-color: #021010ad;
+}
+
+a{
+    color: #27a8e6;
+    background-color: #021010ad;
+    font-size: 20px;
+    margin: 20px;
+}
+
+img{
+    height: 600px;
+    width: 600px;
+}
+
+table{
+    width: 100%;
+    background-color: #021010ad;
+}
+
+.guadalupe{
+    text-align: left;
+    background-image: url(../img/guadalupe.jpg);
+    background-size: contain;  
+    background-position: center;    
+}
+
+.babel{
+    text-align: left;
+    background-image: url(../img/babel.jpg);
+    background-size: contain;
+    background-position: center;
+}
+
+.deCierto{
+    text-align: left;
+    background-image: url(../img/deCierto.jpg);
+    background-size: contain;
+    background-position: center;
+}
+
+ol{
+    background-color: #021010ad;
+}
+
+li{
+    color: whitesmoke;
+    font-size: 30px;
+}
